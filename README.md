@@ -41,3 +41,41 @@ Adding a wireframe placeholder for a login form or shopping cart icon signals cr
 ---
 
 Each of these elements lays the groundwork for a smooth, intuitive design—turning ideas into user-friendly interfaces long before any color or polish is added.
+
+---
+
+## 🧬 Types of Wireframes
+
+Wireframes come in different levels of detail, or "fidelity," depending on the stage of the design process and the goals of the team. The two most common types are:
+
+### 📝 Low-Fidelity Wireframes
+
+These are basic, often grayscale sketches that focus on structure and layout rather than visual design. They use simple shapes and placeholder text to represent content.
+
+**When to use:**  
+- Early in the design process  
+- During brainstorming or ideation  
+- For quick feedback and iteration
+
+**Example:**  
+A hand-drawn sketch or a Figma frame with boxes labeled “Image” or “CTA” without styling.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+
+These are more detailed and polished, often resembling the final product. They include accurate spacing, typography, and sometimes even real content or interactivity.
+
+**When to use:**  
+- In later design stages  
+- For stakeholder presentations  
+- Before transitioning to development
+
+**Example:**  
+A clickable prototype in Figma with styled buttons, real copy, and responsive layout behavior.
+
+---
+
+## 🔍 What Type of Wireframe is the Project Airbnb File?
+
+The [Project Airbnb wireframe in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=UCwWuR0qhf31HDPJ-0) appears to be a **high-fidelity wireframe**. It includes detailed UI components, structured layout, and visual styling that closely mirrors the final product. This level of fidelity is typically used for refining user experience, validating design decisions, and preparing for handoff to developers.
