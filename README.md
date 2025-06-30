@@ -79,3 +79,29 @@ A clickable prototype in Figma with styled buttons, real copy, and responsive la
 ## 🔍 What Type of Wireframe is the Project Airbnb File?
 
 The [Project Airbnb wireframe in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=UCwWuR0qhf31HDPJ-0) appears to be a **high-fidelity wireframe**. It includes detailed UI components, structured layout, and visual styling that closely mirrors the final product. This level of fidelity is typically used for refining user experience, validating design decisions, and preparing for handoff to developers.
+
+---
+
+## 🛠️ Popular Wireframing Tools
+
+There are many tools available for creating wireframes, each with its own strengths depending on the project needs and team workflow. Here are some widely used options:
+
+- **Figma** – A cloud-based design tool known for its real-time collaboration, intuitive interface, and powerful prototyping features. It offers drag-and-drop wireframe kits, reusable components, and seamless feedback loops, making it ideal for both solo designers and teams.
+- **Balsamiq** – Focused on low-fidelity wireframes, Balsamiq mimics hand-drawn sketches to encourage early-stage brainstorming without getting distracted by visual polish.
+- **Adobe XD** – A versatile tool for wireframing, UI design, and prototyping, with strong integration into the Adobe ecosystem.
+- **Sketch** – Popular among macOS users, Sketch provides robust vector editing and plugin support, making it great for high-fidelity wireframes.
+- **Lucidchart** – A diagramming tool that also supports wireframing, especially useful for mapping out user flows and system architecture.
+
+---
+
+### ⭐ Why Figma Stands Out
+
+Figma is especially powerful for wireframing because it combines design, prototyping, and collaboration in one platform. Key features include:
+
+- **Real-time collaboration** – Multiple users can work on the same file simultaneously, making it perfect for remote teams.
+- **Component libraries** – Reusable UI elements speed up the wireframing process and ensure consistency.
+- **Cross-platform access** – As a browser-based tool, Figma works on any operating system without installation.
+- **Version history** – Easily track changes and revert to previous iterations.
+- **Plugins and templates** – A rich ecosystem of plugins and community-made wireframe kits to jumpstart your designs.
+
+Whether you're sketching out a quick idea or building a detailed prototype, Figma adapts to your workflow and scales with your project.
